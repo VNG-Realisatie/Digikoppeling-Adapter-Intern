@@ -37,29 +37,3 @@ folder_files:
 		{% endfor %}
 	</tbody>
 </table>
-
-## Zaak- en Documentservices 1.1
-
-<table>
-	<thead>
-		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
-		</tr>
-	</thead>
-	<tbody>
-		{% for i in page.folder_files %}
-			{% if i.group == 110 %} 
-				<tr>
-					<td>
-					  <a href="{{ i.path | base_url }}">
-						{{ i.title }}
-					  </a>
-					</td>
-					<td>{{ i.versie }}</td>
-					<td>{{ i.status }}</td>
-					<td>{{ i.omschrijving }}</td>
-				</tr>
-			{% endif %} 
-		{% endfor %}
-	</tbody>
-</table>
