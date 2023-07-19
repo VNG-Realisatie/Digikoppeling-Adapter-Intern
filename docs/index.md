@@ -12,7 +12,7 @@ De standaard ‘Digikoppeling Adapter Intern’ handhaaft het uitgangspunt dat d
 De standaard definieert een eenduidig webservice interface voor het overdragen van berichten tussen een Digikoppeling adapter en een koppelend systeem. Dit maakt het mogelijk om zonder aanpassingen in de software de overdracht van nieuwe berichten te ondersteunen. De ondersteuning van nieuwe berichten wordt geconfigureerd in de Digikoppeling adapter en het koppelend systeem. Ook kan zonder aanpassingen in de koppelende systemen een Digikoppeling adapter worden vervangen.
 
 ## Community voor vragen en wijzigingsverzoeken
-Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de [community Digikoppeling adapter intern](http://discussie.kinggemeenten.nl/discussie/gemma/koppelvlak-dai). Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
+Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de [community Digikoppeling adapter intern](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/koppelvlak-dai). Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
 
 * Onderbouwing voor het wijzingsverzoek
 * De eigen voorkeur qua oplossing, inclusief voor- en nadelen
