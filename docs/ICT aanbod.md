@@ -13,9 +13,3 @@ De GEMMA Softwarecatalogus biedt u in twee simpele stappen een overzicht van sof
 * Stap 2: Kies in de linkerkolom onder de kop “standaarden” Digikoppeling adapter intern. Het overzicht wordt gegenereerd met alle softwareproducten van de verschillende leveranciers waarbij wordt aangegeven of de standaard in gebruik of in ontwikkeling is.
 
 Staat uw huidige softwareproduct niet in het overzicht? Neem in dit geval contact op met de Softwareleverancier, of de Gebruikersvereniging om de GEMMA Softwarecatalogus te laten actualiseren of de standaard te laten inbouwen. De leverancier is er zelf verantwoordelijk voor het actueel houden van de GEMMA Softwarecatalogus.
-
-## Status van het standaardisatietraject
-
-| Keten-analyse | Inrichten project-groep | Opstellen standaard | Vaststellen standaard | Compliancy inrichten |
-| --- | --- | --- | --- | --- |
-| Gereed | Gereed | Gereed | Gereed | November 2015 |
