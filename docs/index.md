@@ -6,6 +6,7 @@ title: Digikoppeling Adapter Intern
 
 **Actuele versie:** 1.0  
 **Beheerder:**  VNG Realisatie<br/>
+**Status:** In gebruik
 
 Het standaard koppelvlak 'Digikoppeling adapter intern' definieert de communicatie tussen systemen binnen een gemeente en een Digikoppeling adapter
 
